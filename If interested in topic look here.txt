@@ -1,0 +1,19 @@
+http://elixir-lang.org/
+That's the official elixir website. Here you can find some usefull informations such as:
+- instalation 			http://elixir-lang.org/install.html
+- basic syntax of language	http://elixir-lang.org/getting_started/1.html
+- and some more specific info	http://elixir-lang.org/docs.html
+It's also great to subscribe to receive news about Elixir to be always up to dated with that technology
+
+If You are not certain about this language and don't want to spend your free time on things you won't use, give Elixir chance here:
+https://howistart.org/posts/elixir/1
+
+Great alternative version to this is that website:
+http://learnxinyminutes.com/docs/elixir/
+
+There are of course books written to increase skills in that language not only with syntax, but also with way of thinking in apropriate way. 
+Is available on ebay or amazon in paper or kindle version usually:
+Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun by Dave Thomas
+Introducing Elixir: Getting Started in Functional Programming by Simon Laurent & J. David Eisenberg
+Elixir in Action by Saša Juriæ
+
